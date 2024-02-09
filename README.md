@@ -28,7 +28,7 @@ The dataset can be accessed from [here](https://www.kaggle.com/datasets/l3llff/f
 
 ## Results:
 Loss vs epochs : 
-![](https://github.com/Shreyas1018/Flower-Classification/blob/main/Loss%20vs%20epochs.png)
+![](https://github.com/Shreyas1018/Flower-Classification/blob/main/Loss%20vs%20epochs.png) <br />
 Accuracy vs epochs :
 ![](https://github.com/Shreyas1018/Flower-Classification/blob/main/Acc%20vs%20epochs.png)
 
