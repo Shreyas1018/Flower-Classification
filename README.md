@@ -27,9 +27,9 @@ Reference Images of Flower: <br />
 The dataset can be accessed from [here](https://www.kaggle.com/datasets/l3llff/flowers)
 
 ## Results:
-Loss vs epochs : 
+Loss vs epochs : <br />
 ![](https://github.com/Shreyas1018/Flower-Classification/blob/main/Loss%20vs%20epochs.png) <br />
-Accuracy vs epochs :
+Accuracy vs epochs : <br />
 ![](https://github.com/Shreyas1018/Flower-Classification/blob/main/Acc%20vs%20epochs.png)
 
 
